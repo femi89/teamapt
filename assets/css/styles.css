@@ -1,0 +1,17 @@
+.form-control {
+  height: 50px;
+}
+
+.input-group-text {
+  background-color: #ffffff;
+  border-right: none;
+}
+
+.card {
+  border-radius: 11px;
+}
+
+a {
+  text-decoration: blink;
+}
+

@@ -1,0 +1,47 @@
+.side-menu{
+    padding: 21px 0;
+    border-bottom: none;
+    .nav-link{
+        color: #ffffff;
+        font-size: 13px;
+        padding: 15px 12px;
+        .fa{
+            margin-right: 5px;
+            font-size: 18px;
+        }
+        &.active{
+            background-color: #4a81d4;
+            color: inherit;
+            border-color: transparent;
+            border-left: solid 4px #ffffff;
+        }
+        &:hover{
+            border-color: transparent;
+        }
+    }
+}
+.trans{
+    li{
+        font-size: 12px;
+        padding: 6px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+.card-body{
+    label{
+        font-size:12px;
+        margin-bottom: 0;
+    }
+}
+.check-list{
+    li{
+        padding: 6px 0;
+    }
+}
+.foot-nav{
+    li{
+        padding: 7px 0;
+    }
+}
